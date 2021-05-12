@@ -14,25 +14,25 @@ This planet gearbox comes in four sizes to match Nema11, Nema14, Nema17, Nema23 
 All printed tests have been on a 36 teeth annulus, with both sun and planet gears set to 12 teeth. This produces a silent and smooth 1:4 gear ratio.
 The following gear ratios have been shown to mesh as well and this applies for any of the above mentioned Nema motors:
 
-Ratio | Annulus | Sun | Planet | Pitch
---------| ------------- | ------------- | ------------- | -------------
-2.6     |60     |36     |12
-3.0     |44     |22   11
-3.15789 |41     |19   11
-3.3     |42     |18   12
-3.375   |38     |16   11
-3.5     |30     |12    9
-3.6     |26     |10    8
-3.69231 |35     |13   11
-3.75    |44     |16   14
-3.8     |42     |15   13
-4       |27     | 9    9
-4       |36     |12   12
-4       |45     |15   15
-4.2     |32     |10   11
-4.25    |39     |12   13
-4.5     |42     |12   15
-4.667   |33     | 9   12
-4.8     |38     |10   14
-5.4     |44     |10   17
-6.0     |60     |12   24
+Ratio   | Annulus | Sun | Planet | Pitch
+--------| ------- | --- | -------| ----- 
+2.6     |60       |36   |12      | ?
+3.0     |44       |22   |11      | ?
+3.15789 |41       |19   |11      | ?
+3.3     |42       |18   |12      | ?
+3.375   |38       |16   |11      | ?
+3.5     |30       |12   | 9      | ?
+3.6     |26       |10   | 8      | ?
+3.69231 |35       |13   |11      | ?
+3.75    |44       |16   |14      | ?
+3.8     |42       |15   |13      | ?
+4       |27       | 9   | 9      | ?
+4       |36       |12   |12      | ?
+4       |45       |15   |15      | ?
+4.2     |32       |10   |11      | ?
+4.25    |39       |12   |13      | ?
+4.5     |42       |12   |15      | ?
+4.667   |33       | 9   |12      | ?
+4.8     |38       |10   |14      | ?
+5.4     |44       |10   |17      | ?
+6.0     |60       |12   |24      | ?
