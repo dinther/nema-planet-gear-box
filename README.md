@@ -9,6 +9,9 @@ Contrairy to the many well intended 3D printable panet gear solutions out there,
 This gearbox is tried, printed, modified, printed again tested over an over for months with a pile of parts to show for it. But the results are worth it as you can see in the linked video.
 
 <img src="/images/path_to_success.jpg" alt="Path to success" width="400"/>
+<video width="320" height="240" controls>
+  <source src="nema17_quiet_gearbox.mp4" type="video/mp4">
+</video>
 
 # Capabilities
 This planet gearbox comes in four sizes to match Nema11, Nema14, Nema17, Nema23 and Nema34. It uses 3 planet gears driven by the sun gear in the middle which is attached to the Nema stepper motor. The gearbox can be directly mounted onto the Nema motor face plate and has the same square shape and size as the motor.
